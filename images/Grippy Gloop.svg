@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="GrippyGloop" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 1024">
+  <g id="Body">
+    <path d="M515.19,675.94c-9.31,34.5,8.44,81.56,45.54,82.05,27.09.36,63.4,6.55,71.47-32.53" style="fill: #68488d; stroke: #492e6a; stroke-miterlimit: 10; stroke-width: 6.76px;"/>
+    <path d="M680.1,728.04c.32,3.78-1.53,12.57,10.68,22.61,15.71,12.93,62.38,13.84,78.88,2.17,21.41-15.14,25.92-38.26,20.73-77.15" style="fill: #68488d; stroke: #492e6a; stroke-miterlimit: 10; stroke-width: 6.76px;"/>
+    <path d="M427.04,529c-30.43,14.59-64.75,63.88-48.55,92.67,10.94,19.44,43.22,30.6,78.49-.92" style="fill: #68488d; stroke: #492e6a; stroke-miterlimit: 10; stroke-width: 6.76px;"/>
+    <path d="M888.31,532.39c42.29,18.8,63.03,53,45.4,88.33-9.65,19.33-46.58,33.54-76.34-.49" style="fill: #68488d; stroke: #492e6a; stroke-miterlimit: 10; stroke-width: 6.76px;"/>
+    <ellipse cx="657.15" cy="502.25" rx="234.31" ry="224.08" style="fill: #68488d; stroke: #492e6a; stroke-miterlimit: 10; stroke-width: 6.76px;"/>
+  </g>
+  <g id="Eyes">
+    <ellipse cx="558.72" cy="504.3" rx="33.52" ry="45.3" style="stroke: #000; stroke-miterlimit: 10; stroke-width: 9.63px;"/>
+    <ellipse cx="755.28" cy="505.37" rx="33.52" ry="45.3" style="stroke: #000; stroke-miterlimit: 10; stroke-width: 9.63px;"/>
+  </g>
+  <g id="Eyebrows_Mouth" data-name="Eyebrows &amp;amp; Mouth">
+    <path d="M784.89,431.21c-.69-9.12-7.06-16.78-15.9-19.18-8.19-2.23-17.17.42-23.02,6.78" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 6.85px;"/>
+    <path d="M565.14,419.03c-5.85-7.26-15.61-10.33-24.39-7.73-8.13,2.41-14.11,9.31-15.31,17.67" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 6.85px;"/>
+    <path d="M608.71,563.86c8.78,20.03,28.87,32.59,50.19,31.5,19.75-1.01,37.36-13.58,45.12-32.22" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 16.1px;"/>
+  </g>
+  <g id="Leaf_Left" data-name="Leaf Left">
+    <path d="M634.83,297.09c0,26.51-30.26,43.96-72.51,43.96s-88.01-24.79-81.95-44.56c5.12-16.71,17.64-18.71,37.9-27.35,12.24-5.21,26.35-12.53,42.25-12.53,42.25,0,74.3,13.97,74.3,40.48Z" style="fill: #489326; stroke: #247610; stroke-miterlimit: 10; stroke-width: 6.76px;"/>
+    <path d="M633,304.84c-32.27-15.19-63-17.47-94.5-10.63" style="fill: #489326; stroke: #247610; stroke-miterlimit: 10; stroke-width: 6.76px;"/>
+  </g>
+  <g id="Leaf_Right" data-name="Leaf Right">
+    <path d="M670.92,309.12c-15.07-24.52-1.9-67.31,41.26-80.43,49.53-15.06,103.11-18.95,100.18-3.73-3.57,18.54-2.89,31.2-16.49,50.3-8.22,11.53-24.92,27.15-39.45,35.87-38.59,23.17-70.43,22.52-85.49-2Z" style="fill: #489326; stroke: #247610; stroke-miterlimit: 10; stroke-width: 7.27px;"/>
+    <path d="M670.77,309.4c38.11-3.65,62.23-51.75,94.11-50.8" style="fill: #489326; stroke: #247610; stroke-miterlimit: 10; stroke-width: 7.27px;"/>
+  </g>
+  <path id="Stem" d="M572.36,213.29c-4.62-7.33,4.08-20.95,19.44-30.42,15.36-9.47,31.56-11.2,36.19-3.87,4.62,7.33-37.19,42.98-17.13,29.62,13.07-8.7,26.29-24.95,30.47-20.13,3.07,3.54,18.91,35.86,21,44.31,8.16,32.97,12.93,74.69,4.35,81.28-6.69,5.13-28.25,7.45-31.37-1.9-7.43-22.28-7.3-23.04-14.6-46.84-6.18-20.17-38.8-36.91-48.35-52.05Z" style="fill: #52362b; stroke: #3d241c; stroke-miterlimit: 10; stroke-width: 5.26px;"/>
+  <g id="Cheeks" style="opacity: .76;">
+    <ellipse cx="484.86" cy="560.01" rx="28.82" ry="17.89" style="fill: #fcacbd;"/>
+    <ellipse cx="824.07" cy="560.52" rx="28.82" ry="17.89" style="fill: #fcacbd;"/>
+  </g>
+</svg>

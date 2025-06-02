@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 1024">
+  <g id="Body">
+    <path d="M503.44,702.59c-7.92,26.96,4.3,62.95,32.32,62.4,20.46-.4,47.74,3.47,54.84-27" style="fill: #fd4a44; stroke: #d41700; stroke-miterlimit: 10; stroke-width: 5.8px;"/>
+    <path d="M633.47,739.6c.28,2.81-1.13,9.31,8.63,16.84,12.56,9.69,49.62,10.68,62.64,2.14,16.9-11.09,20.32-28.2,15.94-57.06" style="fill: #fd4a44; stroke: #d41700; stroke-miterlimit: 10; stroke-width: 5.8px;"/>
+    <path d="M419.6,568.72c-26.41,11.88-56.25,51.92-42.26,75.24,9.45,15.75,37.42,24.74,68.06-.88" style="fill: #fd4a44; stroke: #d41700; stroke-miterlimit: 10; stroke-width: 5.8px;"/>
+    <path d="M796.72,578.03c34.95,14.78,52.43,41.85,38.45,69.93-7.65,15.36-37.77,26.75-62.65-.15" style="fill: #fd4a44; stroke: #d41700; stroke-miterlimit: 10; stroke-width: 5.8px;"/>
+    <path d="M803.24,541.51c0,101.45-87.38,195.47-188.83,195.47-11.87,0-25.18-1.87-25.18-1.87-45.13-6.55-75.54-28.53-85.72-35.89-13.47-9.74-88.78-67.02-82.02-154.27.84-10.89-4.74-112.95,37.85-105.73,8.6,1.46,50.94-13.63,73.91-31.47,17.03-13.23,21.51-37.49,24.22-47.11,1.77-6.29-.6,33.19,5.64,52.32s17.77,31.2,36.96,32.47c42.38,2.81,46.5-37.62,57.42-75.37,2.09-7.22,6.34,28.28,39.67,51.52,15.24,10.62,44.46,23.29,70.57,17.84,28.81-6.01,35.52,59.66,35.52,102.1Z" style="fill: #fd4a44; stroke: #d41700; stroke-miterlimit: 10; stroke-width: 5.8px;"/>
+    <ellipse cx="482.03" cy="582.63" rx="8.32" ry="14.89" transform="translate(-159.14 181.74) rotate(-18.38)" style="fill: #ffe42a; stroke: #ffce35; stroke-miterlimit: 10; stroke-width: 2.9px;"/>
+    <path d="M615.24,698.29c0,7.2-3.46,13.03-7.73,13.03-4.27,0-7.73-5.83-7.73-13.03s3.46-13.03,7.73-13.03,7.73,5.83,7.73,13.03Z" style="fill: #ffe42a; stroke: #ffce35; stroke-miterlimit: 10; stroke-width: 2.61px;"/>
+    <ellipse cx="674.4" cy="648.38" rx="14.33" ry="7.7" transform="translate(-146.3 1097.45) rotate(-72.56)" style="fill: #ffe42a; stroke: #ffce35; stroke-miterlimit: 10; stroke-width: 2.74px;"/>
+    <ellipse cx="734.7" cy="581.82" rx="14.29" ry="7.72" transform="translate(56.89 1229.04) rotate(-82.05)" style="fill: #ffe42a; stroke: #ffce35; stroke-miterlimit: 10; stroke-width: 2.74px;"/>
+    <ellipse cx="542.84" cy="648.78" rx="8.32" ry="14.89" transform="translate(-176.89 204.29) rotate(-18.38)" style="fill: #ffe42a; stroke: #ffce35; stroke-miterlimit: 10; stroke-width: 2.9px;"/>
+  </g>
+  <g id="Eyes">
+    <path id="Right_Eye_Wink" data-name="Right Eye Wink" d="M701.56,541.35c-.68-10.86-7.91-19.92-18.04-22.69-9.38-2.56-19.73.69-26.52,8.34" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 8.01px;"/>
+    <ellipse id="Left_Eye" data-name="Left Eye" cx="534.92" cy="534.63" rx="24.64" ry="33.68" style="stroke: #000; stroke-miterlimit: 10; stroke-width: 7.12px;"/>
+    <ellipse id="Right_Eye" data-name="Right Eye" cx="679.4" cy="535.43" rx="24.64" ry="33.68" style="stroke: #000; stroke-miterlimit: 10; stroke-width: 7.12px;"/>
+  </g>
+  <g id="Eyebrows_Mouth" data-name="Eyebrows &amp;amp; Mouth">
+    <path d="M701.17,480.3c-.51-6.78-5.19-12.47-11.69-14.26-6.02-1.66-12.62.31-16.92,5.04" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 5.06px;"/>
+    <path d="M539.64,471.24c-4.3-5.4-11.48-7.68-17.93-5.75-5.98,1.79-10.37,6.92-11.25,13.14" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 5.06px;"/>
+    <path d="M571.67,578.91c6.45,14.89,21.22,24.23,36.89,23.42,14.52-.75,27.46-10.1,33.17-23.95" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 11.9px;"/>
+  </g>
+  <g id="Banana_Cap" data-name="Banana Cap">
+    <path d="M565.42,318.67c5.62-12.08-26.29-43.19-52.33-61.06-24.66-16.92,33.64-66.1,65.56-48.58,21.29,11.69,25.06,48.41,34.5,47.78,8.88-.59,16.68-9.82,33.35-18.85,10.68-5.78,23,1.21,34.79,4.51,13.68,3.83,29.09,15.48,26.74,26.28-.88,4.04-2.76,6.62-7.76,12.74-19.76,24.17-29.95,32.28-27.6,36.63,1.62,3.01,8,1.95,13.8,2.39,33.28,2.53,44.57,63.64,83.67,91.51,27.65,19.71,46.26,4.98,31.92,12.81-20.42,11.14-55.23,17.14-76.77,7.17-40.06-18.54-64.58-43.63-66.31-80.26-.17-3.66-9.6,34.87-12.47,46.55-4.41,17.93-14.79,44.97-44.35,44.11-26.27-.76-36.5-24.06-38.83-39.69-1.15-7.7-2.76-57.32-4.35-57.78-1.65-.48-8.17,31.77-12.53,41.9-8.01,18.62-38,31.12-43.98,34.03-10.37,5.04-32.25,12.95-42.27,13.8-21.85,1.86-44.73-8.95-44.85-19.64-.1-8.61,21.58,2.38,46.58-20.71,9.2-8.49,25.57-28.74,34.79-40.35,8.51-10.72,20.17-20.41,37.33-26.85,18.35-6.89,28.95-3.23,31.38-8.45Z" style="fill: #ffd72d; stroke: #df9d00; stroke-miterlimit: 10; stroke-width: 5.8px;"/>
+    <path d="M516,259c11.14-15.5,26.18-8.75,40-13,13.92-4.28-.35-10.66,7-24" style="fill: #ffd72d; stroke: #df9d00; stroke-miterlimit: 10; stroke-width: 5.8px;"/>
+  </g>
+  <g id="Cheeks" style="opacity: .8;">
+    <ellipse cx="466.52" cy="567.37" rx="34.52" ry="19.63" style="fill: #fcacbd;"/>
+    <ellipse cx="749.48" cy="566.83" rx="34.52" ry="19.63" style="fill: #fcacbd;"/>
+  </g>
+</svg>
