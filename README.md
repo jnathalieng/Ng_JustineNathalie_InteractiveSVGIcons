@@ -1,4 +1,4 @@
-#Interactive SVG Icons
+## Interactive SVG Icons
 This project includes a custom set of 6 branded, scalable SVG icons designed in Adobe Illustrator. Each icon represents a different character flavor and is used as part of a product showcase on my FIP for Squeezit Brand. Each icon is animated with simple CSS transitions and logs a message to the browser console when clicked.
 
 Characters 
