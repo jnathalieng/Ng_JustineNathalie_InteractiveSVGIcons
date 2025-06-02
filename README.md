@@ -1,12 +1,12 @@
 ## Interactive SVG Icons
 This project includes a custom set of 6 branded, scalable SVG icons designed in Adobe Illustrator. Each icon represents a different character flavor and is used as part of a product showcase on my FIP for Squeezit Brand. Each icon is animated with simple CSS transitions and logs a message to the browser console when clicked.
 
-Characters 
-Strawnana – a strawberry-banana flavored character
-Grippy Gloop – grape flavor with a gooey personality
-Tiki Tango – tropical pineapple mango combo
-Sunny Peel – bright and citrusy orange
-Mysti Swirl – four-seasons flavor with a magical swirl
+## Character Icons
+Berry Bop – a strawberry-banana flavored character
+Grippy Gloop – grape flavor with a gooey personality 
+Tiki Tango – tropical pineapple mango combo 
+Sunny Peel – bright and citrusy orange 
+Mysti Swirl – four-seasons flavor with a magical swirl 
 Apple Dabble – sweet and classic apple design
 
 
